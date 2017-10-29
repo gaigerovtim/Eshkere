@@ -1,0 +1,100 @@
+
+#main1{
+  margin: auto;
+  border: 1px solid black;
+  background-color: rgba(135, 186, 246, 0.63);
+  padding: 5px;
+  font-family: QB;
+}
+h1,p,blockquote,ul{
+  font-family: QB;
+}
+h1{
+  font-size: 2rem;
+  font-weight: 400;
+  font-variant: small-caps;
+  text-align: center;
+  border-bottom: 1px solid #aaaaaa;
+}
+h3{
+  font-size: 1.3125rem;
+  font-weight: 600;
+  border-bottom: 1px solid #aaaaaa;
+}
+h4{
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+a{
+  color: #0088ff;
+  text-decoration-line: none;
+}
+blockquote{
+  border: 1px solid #dddddd;
+  background-color: #eeeeee;
+  padding: 15px;
+  border-radius: 3px;
+  font-style: italic;
+}
+#since{
+  margin: 10px;
+  width: auto;
+}
+em{
+  color: #888888;
+}
+p{
+  text-align: justify;
+  text-indent: 40px;
+}
+#block0{
+  float: right;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 15px;
+  background-color: #eeeeee;
+  border-radius: 3px;
+  border: 1px solid #dddddd;
+  width: 250px;
+}
+img{
+  width: 100%;
+  border-radius: 3px;
+  float: left;
+}
+.noth{
+  font-weight: 500;
+  padding: 10px;
+}
+#citata{
+  float: left;
+}
+#main2{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 15px;
+  background-color: #eeeeee;
+  border-radius: 3px;
+  border: 1px solid #dddddd;
+  width: 250px;
+}
+.tret{
+  width: 250px;
+  float: right;
+  padding: 15px;
+  background-color: #eeeeee;
+  margin: 15px;
+}
+.passiv{
+  font-size: 0.8125rem;
+  font-style: italic;
+}
+@font-face {
+  font-family: QB;
+  src: url(Roboto.ttf);
+  color: #222222;
+}
